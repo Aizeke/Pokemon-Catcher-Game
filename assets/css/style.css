@@ -15,9 +15,9 @@ h1, h5 {
 }
 
 h5 {
-    background-color: lightskyblue;
+    background-color: darkslategray;
     padding: 5px;
-    border: 5px solid lightslategray;
+    border: 5px solid darkkhaki;
     text-align: left;
 }
 
@@ -47,6 +47,7 @@ h5 {
     height: 100%;
     color: black;
     padding: 5px;
+    font-size: 25px;
 }
 
 #pokemon-0, #pokemon-1,
